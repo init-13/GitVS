@@ -14,4 +14,4 @@ or
 
 > git pull 
 
-I added this file to check loagging commit on local machine
+I added this file to check lagging commit on local machine
