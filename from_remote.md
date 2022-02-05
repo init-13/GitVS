@@ -14,4 +14,10 @@ or
 
 > git pull 
 
-I added this file to check lagging commit on local machine
+I added this file to check lagging commit on local machine.
+
+Yes the local VS code can detech if behind from repo after 
+
+> git fetch
+
+> git status
