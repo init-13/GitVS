@@ -10,7 +10,9 @@ I have written this in the local machine and pushing it to remote.
 3. Commands
 
 > git branch -M main
+
 > git remote add "link to git repo"
+
 > git push -u origin main
 
 4. Authorize the push 
