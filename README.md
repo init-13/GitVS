@@ -9,7 +9,7 @@ I have written this in the local machine and pushing it to remote.
 2. Sign in and sync your Github with VScode.
 3. __Commands__
 
-> git branch -M main
+> git branch -M main 
 
 > git remote add "link to git repo"
 

@@ -12,4 +12,4 @@ __Commands__
 
 or
 
-> git pull
+> git pull 
