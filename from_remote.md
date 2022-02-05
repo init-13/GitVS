@@ -13,3 +13,5 @@ __Commands__
 or
 
 > git pull 
+
+I added this file to check loagging commit on local machine
